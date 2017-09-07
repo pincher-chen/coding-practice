@@ -1,5 +1,5 @@
 # coding-practice
 A code repository for coding practice.
 
-1. a tutorial for go
+1. A tutorial for go
 https://golangbot.com/
